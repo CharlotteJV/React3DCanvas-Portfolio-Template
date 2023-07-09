@@ -1,4 +1,6 @@
 # React3DCanvas-Portfolio-Template
+![Prortfolio](https://i.ibb.co/hDckYKF/compute.png)
+
 ## Công nghệ và công cụ
 
 - React: Thư viện JavaScript để xây dựng giao diện người dùng.

